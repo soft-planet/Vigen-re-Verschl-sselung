@@ -3,7 +3,7 @@ Eine PHP Implementierung der Vigenère-Chiffre - Eine Verschlüsslungsmethode au
 
 https://de.wikipedia.org/wiki/Vigen%C3%A8re-Chiffre
 
-##Beispiel zur Verwendung der Verschlüsselungsmethode
+## Beispiel zur Verwendung der Verschlüsselungsmethode
 
 $alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
